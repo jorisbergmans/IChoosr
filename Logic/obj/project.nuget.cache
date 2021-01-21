@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "emqtI83PYbrG9jPLHkvZhYFOMpsWvT4HW42gM2po0GynH2zw1upiZV0oMGrw7E/fQ5R3Yd3TNdBwTBWXyTOEIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joris\\source\\repos\\Logic\\Logic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joris\\.nuget\\packages\\csvhelper\\14.0.0\\csvhelper.14.0.0.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0\\microsoft.extensions.dependencyinjection.5.0.0.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0\\microsoft.extensions.logging.5.0.0.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\joris\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
