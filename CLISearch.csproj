@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <PackAsTool>true</PackAsTool>
+    <ToolCommandName>search</ToolCommandName>
+    <PackageOutputPath>./nupkg</PackageOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="cameras-defb.csv" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="cameras-defb.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="McMaster.Extensions.CommandLineUtils" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.CommandLineUtils" Version="1.1.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Logic\Logic.csproj" />
+  </ItemGroup>
+
+</Project>
