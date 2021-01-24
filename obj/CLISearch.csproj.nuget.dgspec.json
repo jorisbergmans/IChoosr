@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joris\\source\\repos\\CLISearch\\CLISearch.csproj": {}
+    "C:\\Users\\joris\\source\\repos\\CLISearch\\IChoosr\\CLISearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joris\\source\\repos\\CLISearch\\CLISearch.csproj": {
+    "C:\\Users\\joris\\source\\repos\\CLISearch\\IChoosr\\CLISearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joris\\source\\repos\\CLISearch\\CLISearch.csproj",
+        "projectUniqueName": "C:\\Users\\joris\\source\\repos\\CLISearch\\IChoosr\\CLISearch.csproj",
         "projectName": "CLISearch",
-        "projectPath": "C:\\Users\\joris\\source\\repos\\CLISearch\\CLISearch.csproj",
+        "projectPath": "C:\\Users\\joris\\source\\repos\\CLISearch\\IChoosr\\CLISearch.csproj",
         "packagesPath": "C:\\Users\\joris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joris\\source\\repos\\CLISearch\\obj\\",
+        "outputPath": "C:\\Users\\joris\\source\\repos\\CLISearch\\IChoosr\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\joris\\source\\repos\\Logic\\Logic.csproj": {
-                "projectPath": "C:\\Users\\joris\\source\\repos\\Logic\\Logic.csproj"
+              "C:\\Users\\joris\\source\\repos\\CLISearch\\Logic\\Logic.csproj": {
+                "projectPath": "C:\\Users\\joris\\source\\repos\\CLISearch\\Logic\\Logic.csproj"
               }
             }
           }
@@ -79,18 +79,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\joris\\source\\repos\\Logic\\Logic.csproj": {
+    "C:\\Users\\joris\\source\\repos\\CLISearch\\Logic\\Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joris\\source\\repos\\Logic\\Logic.csproj",
+        "projectUniqueName": "C:\\Users\\joris\\source\\repos\\CLISearch\\Logic\\Logic.csproj",
         "projectName": "Logic",
-        "projectPath": "C:\\Users\\joris\\source\\repos\\Logic\\Logic.csproj",
+        "projectPath": "C:\\Users\\joris\\source\\repos\\CLISearch\\Logic\\Logic.csproj",
         "packagesPath": "C:\\Users\\joris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joris\\source\\repos\\Logic\\obj\\",
+        "outputPath": "C:\\Users\\joris\\source\\repos\\CLISearch\\Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -146,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

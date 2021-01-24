@@ -30,4 +30,10 @@
     <ProjectReference Include="..\Logic\Logic.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="Logic">
+      <HintPath>Logic\bin\Debug\netcoreapp3.1\Logic.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>

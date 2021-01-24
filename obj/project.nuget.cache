@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/IRpoehAL07QaI/IuQozvdgDnVxBFVN6+o5THzhoIa+c6ZmgslffqhhOuXGsKQsfbKzCt+SoNT/yQpb0OImAug==",
+  "dgSpecHash": "jFBHTI0er4KXUKfN0e0/zaeKLrCmR8yL7s9/r3wYDQoDZocZquoQubWRWdM5Bj2MpITiM/XiGhSsiU1wbnAfTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joris\\source\\repos\\CLISearch\\CLISearch.csproj",
+  "projectFilePath": "C:\\Users\\joris\\source\\repos\\CLISearch\\IChoosr\\CLISearch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joris\\.nuget\\packages\\csvhelper\\14.0.0\\csvhelper.14.0.0.nupkg.sha512",
     "C:\\Users\\joris\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\3.1.0\\mcmaster.extensions.commandlineutils.3.1.0.nupkg.sha512",

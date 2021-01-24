@@ -34,10 +34,10 @@ namespace CLISearch
 
             //Executing the logic
             var search = serviceProvider.GetService<ISearchHandler>();
-            Console.WriteLine(args[0]);
             if (args.Length != 0)
             {
-                search.ShowCamerasByName(args[1]);
+                var cameraResult = search.ShowCamerasByName(args[1]);
+                cameraResult.ForEach(x => Console.Write("{0}|{1}|{2}\r\n", x.Camera, x.Latitude, x.Longitude));
             }
 
             logger.LogDebug("Finished succesfully!");

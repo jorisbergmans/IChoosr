@@ -11,24 +11,24 @@
     </packageTypes>
   </metadata>
   <files>
-    <file src="C:\Users\joris\source\repos\CLISearch\obj\DotnetToolSettings.xml" target="tools\netcoreapp3.1\any\DotnetToolSettings.xml" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\cameras-defb.csv" target="tools\netcoreapp3.1\any\cameras-defb.csv" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\CLISearch.dll" target="tools\netcoreapp3.1\any\CLISearch.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\CLISearch.deps.json" target="tools\netcoreapp3.1\any\CLISearch.deps.json" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\CLISearch.runtimeconfig.json" target="tools\netcoreapp3.1\any\CLISearch.runtimeconfig.json" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\CLISearch.pdb" target="tools\netcoreapp3.1\any\CLISearch.pdb" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\CsvHelper.dll" target="tools\netcoreapp3.1\any\CsvHelper.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\netcoreapp3.1\any\McMaster.Extensions.CommandLineUtils.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.CommandLineUtils.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.CommandLineUtils.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.DependencyInjection.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Logging.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Logging.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Logging.Abstractions.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Logging.Abstractions.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Options.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Options.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Primitives.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Primitives.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\System.ComponentModel.Annotations.dll" target="tools\netcoreapp3.1\any\System.ComponentModel.Annotations.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\System.Diagnostics.DiagnosticSource.dll" target="tools\netcoreapp3.1\any\System.Diagnostics.DiagnosticSource.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\Logic.dll" target="tools\netcoreapp3.1\any\Logic.dll" />
-    <file src="C:\Users\joris\source\repos\CLISearch\bin\Debug\netcoreapp3.1\publish\Logic.pdb" target="tools\netcoreapp3.1\any\Logic.pdb" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\obj\DotnetToolSettings.xml" target="tools\netcoreapp3.1\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\cameras-defb.csv" target="tools\netcoreapp3.1\any\cameras-defb.csv" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\CLISearch.dll" target="tools\netcoreapp3.1\any\CLISearch.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\CLISearch.deps.json" target="tools\netcoreapp3.1\any\CLISearch.deps.json" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\CLISearch.runtimeconfig.json" target="tools\netcoreapp3.1\any\CLISearch.runtimeconfig.json" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\CLISearch.pdb" target="tools\netcoreapp3.1\any\CLISearch.pdb" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\CsvHelper.dll" target="tools\netcoreapp3.1\any\CsvHelper.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\McMaster.Extensions.CommandLineUtils.dll" target="tools\netcoreapp3.1\any\McMaster.Extensions.CommandLineUtils.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.CommandLineUtils.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.CommandLineUtils.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.DependencyInjection.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Logging.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Logging.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Logging.Abstractions.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Logging.Abstractions.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Options.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Options.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\Microsoft.Extensions.Primitives.dll" target="tools\netcoreapp3.1\any\Microsoft.Extensions.Primitives.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\System.ComponentModel.Annotations.dll" target="tools\netcoreapp3.1\any\System.ComponentModel.Annotations.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\System.Diagnostics.DiagnosticSource.dll" target="tools\netcoreapp3.1\any\System.Diagnostics.DiagnosticSource.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\Logic.dll" target="tools\netcoreapp3.1\any\Logic.dll" />
+    <file src="C:\Users\joris\source\repos\CLISearch\IChoosr\bin\Debug\netcoreapp3.1\publish\Logic.pdb" target="tools\netcoreapp3.1\any\Logic.pdb" />
   </files>
 </package>
